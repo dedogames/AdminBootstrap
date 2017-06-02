@@ -1,4 +1,4 @@
-# Boostrap certification
+# Boostrap certification 
 
 [![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/)
 
@@ -23,7 +23,7 @@ $ npm install && bower install
 ### Documentation
  
 
-| Plugin | README |
+| Plugin | Url |
 | ------ | ------ |
 | Bootstrap | [http://getbootstrap.com/]  |
 | Nodejs | [https://nodejs.org/] |
