@@ -23,7 +23,7 @@ $ npm install && bower install
 ### Documentation
  
 
-| Plugin | README |
+| Plugin | Url |
 | ------ | ------ |
 | Bootstrap | [http://getbootstrap.com/]  |
 | Nodejs | [https://nodejs.org/] |
