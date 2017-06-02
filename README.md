@@ -6,11 +6,11 @@ This project is a template for build web applications
 
 ### Tools used
  
-* [Bower] - Pakager manager.
-* [ Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend 
-* [Gulp] - the streaming build system 
-* [jQuery]
+* Bower - Pakager manager.
+* Bootstrap - great UI boilerplate for modern web apps
+* node.js - evented I/O for the backend 
+* Gulp - the streaming build system 
+* jQuery - JavaScript library
 
 ### Installation
 
@@ -29,7 +29,7 @@ $ npm install && bower install
 | Nodejs | [https://nodejs.org/] |
 | Npm | [https://www.npmjs.com/] |
 | Bower |[https://bower.io/] |
-| Gulp | [gulpjs.com] | 
+| Gulp | [http://gulpjs.com/] | 
 | game to lean Flexbox | [https://flexboxfroggy.com/] | 
 
 
