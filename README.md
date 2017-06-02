@@ -1,4 +1,4 @@
-[![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/)
+[![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/index.php/2017/06/01/curso-css/)
 
 # Boostrap certification
 
