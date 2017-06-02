@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fin",
+				"FINISH"
+			],
+			[
+				"y",
+				"yspeed"
+			],
+			[
+				"usua",
+				"usuarioDao"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install p",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"Open URL"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 455.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"update",
+			"g",
+			":g"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gelson.rodrigues/Documents/GitHub/AdminBootstrap/project"
+	],
+	"file_history":
+	[
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/grid_bootstrap/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/grid_bootstrap/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/flexBox/intro/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/flexBox/intro/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/grid_na_pratica/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/grid_na_pratica/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/unidades_flexoras/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/cursocss/unidades_flexoras/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/style.css",
+		"/C/sass/variaveis/scss/style.scss",
+		"/C/sass/variaveis/css/style.css",
+		"/C/sass/variaveis/gulpfile.js",
+		"/C/sass/variaveis/scss/navbar/brand.scss",
+		"/C/sass/variaveis/scss/variaveis.scss",
+		"/C/sass/variaveis/scss/navbar/navbar.scss",
+		"/C/sass/variaveis/scss/navbar/buttons.scss",
+		"/C/sass/variaveis/scss/navbar/links.scss",
+		"/C/sass/variaveis/css/arquivo2.css",
+		"/C/sass/variaveis/scss/arquivo2.scss",
+		"/C/sass/variaveis/css/arquivo1.css",
+		"/C/sass/variaveis/sass/arquivo1.sass",
+		"/C/gulpTest/source/css/style.css",
+		"/C/gulpTest/dist/css/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/te/index.html",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/movingPlataform/Project.xml",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/Player/Project.xml",
+		"/X/Cursos/Curso Bootstrap/Link do Site para as Atividades.txt",
+		"/C/Users/gelson.rodrigues/Desktop/te/folder/style.css",
+		"/C/Users/gelson.rodrigues/Desktop/te/folder/bootstrap.css",
+		"/C/Users/gelson.rodrigues/Desktop/te/folder/animate.css",
+		"/C/xampp/htdocs/jornada/js/xmlParser.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/Arco/Files/perguntas.xml",
+		"/C/xampp/htdocs/jornada/js/aes-ctr.js",
+		"/C/xampp/htdocs/jornada/js/aes.js",
+		"/C/Users/gelson.rodrigues/Desktop/te/Discover HaxeFlixel _ The Book.html",
+		"/C/Users/gelson.rodrigues/Desktop/aes.js",
+		"/C/Users/gelson.rodrigues/Desktop/aes-ctr.js",
+		"/C/xampp/htdocs/jornada/index.html",
+		"/C/xampp/htdocs/jornada/xml/faseTof.xml",
+		"/C/xampp/htdocs/jornada/xml/faseAss.xml",
+		"/C/xampp/htdocs/jornada/xml/faseMch.xml",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/xmlParser/js/xmlParser.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/xmlParser/xml/7011/control.xml",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/xmlParser/xml/7011/fase1.xml",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/xmlParser/js/aes.js",
+		"/C/Users/gelson.rodrigues/Desktop/xmlParser(2)/js/xmlParser.js",
+		"/C/Users/gelson.rodrigues/Desktop/xmlParser(2)/index.html",
+		"/C/xampp/htdocs/jornada/parse.js",
+		"/C/xampp/htdocs/jornada/fase1.xml",
+		"/C/xampp/htdocs/jornada/aes-ctr.js",
+		"/C/Users/gelson.rodrigues/Desktop/xmlParser(1)/js/xmlParser.js",
+		"/C/xampp/htdocs/jornada/xmlParser.js",
+		"/C/xampp/htdocs/jornada/JsMain.js",
+		"/W/Itaú Unibanco/Jornada Olimpica/JOGO/bin/xml/7011/fase2.xml",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/tiroAlvo/js/parse.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/tiroAlvo/js/xmlParser.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/tiroAlvo/js/aes-ctr.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/tiroAlvo/js/aes.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/arcoHaxe/export/flash/bin/foo.js",
+		"/C/xampp/htdocs/jornada/foo.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/Building&LoadingALevel/source/LevelLoader.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Books/HaxeFlixel/src/06-coin/source/states/PlayState.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/LayingTheGroundwork/export/html5/bin/index.html",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/resume/game/testTiled/source/SpashScreen.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/LayingTheGroundwork/source/PlayState.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/LayingTheGroundwork/haxeF.hxproj",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Prismafs/games/jornada/tiroAlvo/Files/xmlParser.js",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/Building&LoadingALevel/source/Player.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/haxebook/Building&LoadingALevel/source/PlayState.hx",
+		"/C/primafs/branches/gameJornada/Arco/Files/perguntas.xml",
+		"/C/primafs/branches/gameJornada/Mode/source/PlayState.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/Player.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Curso-Prisma/README.md",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/games/sword/source/MenuState.hx",
+		"/C/Program Files (x86)/Steam/steamapps/common/Dead Cells/res.pak",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/resume/game/testTiled/source/Main.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Gameudi/gameudi/resume/game/testTiled/source/MenuState.hx",
+		"/W/Itaú Unibanco/Cursos 2016/ID 6698 - Introdução à Liderança I/1 - CURSO/src/Tetris.as",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Templates/README.md",
+		"/C/primafs/branches/gameJornada/Mode/source/Reg.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/Spawner.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/VictoryState.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/Bullet.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/Enemy.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/EnemyBullet.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/Main.hx",
+		"/C/primafs/branches/gameJornada/Mode/source/MenuState.hx",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.0/README.textile",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.5/README.textile",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.0/MIT-LICENSE.txt",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.0/src/com/asunit/ui/Main.as",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.0/Sys.as",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/asunit-2.5/MIT-LICENSE.txt",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/asunit/README.textile",
+		"/C/Users/gelson.rodrigues/Desktop/res.pak",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/fz3temp-2/responsive-scripts.js",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/fz3temp-2/customizer.js",
+		"/C/Users/gelson.rodrigues/Desktop/Haxe-Game-Development-Essentials-master/StarWalrus/Project.xml",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/Templates/as2/curso/test/AllTests.as",
+		"/C/Users/gelson.rodrigues/Desktop/as2/lib/Main.as",
+		"/C/Users/gelson.rodrigues/Documents/GitHub/prismafs/games/ID 6687 - Conduta - Bussola/bussola 1.0/bin/main.html",
+		"/C/primafs/branches/gameJornada/Arco/Files/myScripts.js",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/capPIN3LK/Files/myScripts.js",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/cap31RYER/Files/myScripts.js",
+		"/C/xampp/htdocs/gj/index/data.js",
+		"/C/xampp/htdocs/gj/arco/data.js",
+		"/C/Users/gelson.rodrigues/Downloads/game/Onslaught! Arena_files/horde.js.download",
+		"/C/primafs/branches/Portfolio/source/PlayState.hx",
+		"/C/xampp/htdocs/game/js/ludus.js",
+		"/C/Users/gelson.rodrigues/node_modules/asynckit/lib/iterate.js",
+		"/E/cursos/ID 6698 - Introdução à Liderança Victor Tetris/src/testesTetris.txt",
+		"/C/primafs/branches/framework/flash_develop/Main.as",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/cap2HCUL8/Files/sc.js",
+		"/C/Users/gelson.rodrigues/AppData/Local/Temp/cap2HCUL8/Files/myScripts.js",
+		"/C/primafs/branches/gameJornada/Arco/Files/sc.js",
+		"/C/Users/gelson.rodrigues/Desktop/luminicbox-log-master/console/trunk/classes/screenweaver/window/Menu.as",
+		"/C/Users/gelson.rodrigues/Desktop/luminicbox-log-master/console/trunk/classes/swDebug.as",
+		"/C/Users/gelson.rodrigues/Desktop/luminicbox-log-master/console/trunk/classes/swScript.as",
+		"/C/Users/gelson.rodrigues/Desktop/luminicbox-log-master/console/trunk/classes/swFile.as",
+		"/C/Users/gelson.rodrigues/Desktop/luminicbox-log-master/console/trunk/classes/com/gskinner/net/GDispatcher.as",
+		"/C/Users/gelson.rodrigues/Desktop/f.as",
+		"/E/cursos/ID 6698 - Introdução à Liderança Victor Tetris/src/Tetris.as",
+		"/C/Users/gelson.rodrigues/Desktop/sampleBussola/index.html",
+		"/C/Users/gelson.rodrigues/Desktop/Gwendolynn/js/ludus.js",
+		"/C/Users/gelson.rodrigues/Desktop/anim.xml",
+		"/C/Users/gelson.rodrigues/Desktop/card-game-master/original-art/no-combo.xcf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\gelson.rodrigues\\Desktop\\haxeFlixel\\arcadeMinimalist\\source",
+			"C:\\Users\\gelson.rodrigues\\Desktop\\haxeFlixel\\arcadeMinimalist",
+			"C:\\Users\\gelson.rodrigues\\Desktop\\gui\\inspector.player_files",
+			"C:\\Users\\gelson.rodrigues\\Desktop\\as3-platform-game-engine-master\\source\\jp\\raohmaru\\game",
+			"C:\\gamePreloader",
+			"C:\\Users\\gelson.rodrigues\\Desktop\\sites\\template1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"asdfasdf",
+			"tof",
+			"ass",
+			"go",
+			"\"feed\"",
+			"{type",
+			"\"resp\"",
+			"\"alts\"",
+			"\"texto\"",
+			"\"type\"",
+			"\"type",
+			" ",
+			"col-md-2 feature-grid",
+			"features",
+			"750",
+			"contai",
+			"container",
+			"FoLder",
+			"AsSets",
+			"./Assets",
+			"Discover HaxeFlixel _ The Book_files",
+			"{",
+			"{.*?mch.*?}",
+			"\\{.*?mch.*?\\}",
+			"{\"type\":\"mch\",\"texto\":\"Segundo o Comitê Olímpico Brasileiro, o objetivo é que o Brasil fique em que posição no ranking de medalhas?\",\"feed\":\"O objetivo traçado pelo Comitê Olímpico Brasileiro é o 10º lugar. Para isso, estima-se que os atletas do país devam subir ao pódio pelo menos 30 vezes.\",\"resp\":\"e\",\"alts\":[\"1º lugar\",\"2º lugar\",\"3º lugar\",\"5º lugar\",\"10º lugar\"]}",
+			"\\{.*?mch.*?\\}",
+			"/{.*?mch.*?/}",
+			"\\(.*?mch.*?\\)",
+			"/(.*?mch.*?/)",
+			"(.*?mch.*?)",
+			"{.*?mch.*?}",
+			"\\{.*?mch.*?\\}",
+			"\\(.*?mch.*?\\)",
+			"\\(.*?SpecificWord.*?\\)",
+			"\\{.*?mch.*?\\}",
+			"\\(.*?SpecificWord.*?\\)",
+			"~([^(]+SPECIFICWORD[^)]+)~",
+			"{",
+			"open",
+			"/*",
+			"Apply SBox to 4-byte word",
+			"subWord",
+			"getLevel",
+			"readLevel",
+			"querySelector",
+			"getLevel",
+			"\nreadLevels",
+			"readLevels",
+			"getLevel",
+			"readLevels",
+			"getSegmento",
+			"password",
+			"getData",
+			"read",
+			"getData",
+			"getLevel",
+			"callLMSFinish",
+			"index.swf",
+			"keyExpansion",
+			"qtd",
+			"haxelib",
+			"trace",
+			"showTestes",
+			"bin",
+			"btn_ok",
+			"collidableTileLayers",
+			"objectsLayer",
+			"loadObjects",
+			"loadObj",
+			"loadObjects",
+			"foregroundTiles",
+			"particles",
+			"particle.height",
+			"particle.width",
+			"particle",
+			"particles.png",
+			"particle.png",
+			"parti",
+			"&gt;",
+			"&lt;",
+			".png",
+			"prismafs",
+			"prismfs/",
+			"prismafs",
+			"prismfs",
+			"prisma",
+			"getMax",
+			"carregado",
+			"carregado\ncarregado",
+			"carregado",
+			"dir",
+			"incValue",
+			"get",
+			"wait",
+			"loadImageObject",
+			"TiledTileSet",
+			"getImageSourceByGid",
+			"loadObjects",
+			"loadImageAnimObject",
+			"logo",
+			"loadObjects",
+			"set",
+			"tiled",
+			"loadImageObject",
+			"loadImageAnimObject",
+			"logo",
+			"loadObject",
+			"objectsLayer",
+			"images",
+			"me.png",
+			"loadImageObject",
+			"collidableTileLayers",
+			"move_speed",
+			"speed",
+			"jump",
+			"moveLeft",
+			"_aim",
+			"updateAnimations",
+			"updateAnimations\n",
+			"idle",
+			"anima",
+			"collidableTileLayers",
+			"colli",
+			"level",
+			"map",
+			"collideWithLevel",
+			"colli",
+			"objectsLayer"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"feed",
+			"\\n\\n{type",
+			"\\n{type",
+			"resp",
+			"alts",
+			"texto",
+			"type",
+			"\\n\"type",
+			"/n\"type",
+			"\\n\"type",
+			"",
+			"folder",
+			"Assets",
+			"assets",
+			"\\n\\n\\n{",
+			"\\n{",
+			"test",
+			"\\n\\n{",
+			"\\n{",
+			">",
+			"<",
+			"assets",
+			"\"",
+			"",
+			"games/1/assets/",
+			"ObjetosNoStage.getInstance(ObjetosNoStage.MC_FECHADURA)",
+			"ObjetosNoStage.MC_GRAMPO",
+			"ObjetosNoStage.getInstance(MC_GRAMPO)",
+			"'",
+			"",
+			"'",
+			"&newline&\\n",
+			"'",
+			"]",
+			"'",
+			"\"",
+			"'",
+			"<img src=",
+			"/>",
+			"class=\"img\" href",
+			".png\"  download",
+			"</a></br>",
+			"\\nimages/",
+			"",
+			"-",
+			"\\nimages/",
+			"&",
+			"",
+			"$",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 235.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 211.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "subProj.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
