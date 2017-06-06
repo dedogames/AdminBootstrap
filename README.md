@@ -17,9 +17,22 @@ This project is a template for build web applications
 This templas has two config files, the first is package.json and bower.json, with these files a lot of dependencies will be installed on project folder, bellow has a commando on terminal to run start project 
 
 ```sh
-$ npm install && bower install 
+$ npm install && bower install && gulp
 ```
 
+After install all dependcens, a project structure folder will seemed like 
+
+  * **$ProjectFolder**
+     * **dist**
+     * **node_modules** 
+     * **src**
+         * **components**
+         * js
+         * etc.
+     * .bwerrc
+     * gulpfile.js
+     * package.json
+     
 ### Documentation
  
 
