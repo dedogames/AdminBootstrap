@@ -1,9 +1,14 @@
 [![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/index.php/2017/06/01/curso-css/)
 
-# Boostrap certification
+# Template Boostrap certification 
+
+<p align="center"><img src="http://gameudi.com/adminbootstrat/guidepc.png" /></p>
+
 
 This project is a template for build web applications
 
+### Test online
+[Test a demo here](http://gameudi.com/adminbootstrat/)
 ### Tools used
  
 * Bower - Pakager manager.
@@ -17,9 +22,22 @@ This project is a template for build web applications
 This templas has two config files, the first is package.json and bower.json, with these files a lot of dependencies will be installed on project folder, bellow has a commando on terminal to run start project 
 
 ```sh
-$ npm install && bower install 
+$ npm install && bower install && gulp
 ```
 
+After install all dependcens, a project structure folder will seemed like 
+
+  * **$ProjectFolder**
+     * **dist**
+     * **node_modules** 
+     * **src**
+         * **components**
+         * js
+         * etc.
+     * .bwerrc
+     * gulpfile.js
+     * package.json
+     
 ### Documentation
  
 
@@ -52,6 +70,128 @@ Tasks created on gulpfile
 | concat-js | Task concat js  |
 | server | Task server local|
 
+
+Files to change on core 
+=========================
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * bootstrap.scss
+
+<font color="green">Comment all unsed libraries</font>                        
+```scss
+// Core variables and mixins
+@import "variables";
+@import "mixins";
+@import "custom";
+
+// Reset and dependencies
+@import "normalize";
+@import "print";
+
+// Core CSS
+@import "reboot";
+//@import "type";
+@import "images";
+@import "code";
+//@import "grid";
+//@import "tables";
+//@import "forms";
+//@import "buttons";
+
+// Components
+//@import "transitions";
+//@import "dropdown";
+//@import "button-group";
+//@import "input-group";
+//@import "custom-forms";
+@import "nav";
+//@import "navbar";
+@import "card";
+//@import "breadcrumb";
+//@import "pagination";
+//@import "badge";
+//@import "jumbotron";
+//@import "alert";
+//@import "progress";
+//@import "media";
+//@import "list-group";
+//@import "responsive-embed";
+//@import "close";
+
+// Components w/ JavaScript
+//@import "modal";
+//@import "tooltip";
+//@import "popover";
+//@import "carousel";
+
+// Utility classes
+//@import "utilities";
+```
+---
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * _variables.scss
+
+Change default values and create a new variable
+ 
+```scss
+// Reassign color vars to semantic color scheme
+$brand-primary:             #293541 !default;
+$brand-success:             $green !default;
+$brand-info:                #57b0eb !default;
+$brand-warning:             #fc8f3e !default;
+$brand-danger:              $red !default;
+$brand-inverse:             $gray-dark !default;
+ 
+//custon variable
+$height-header-items: 70px;
+```
+
+---
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * _normalize.scss
+
+Change Boding padding
+
+```scss
+body {
+  margin: 0;
+  padding-top: $height-header-items+10;
+}
+
+```
+---
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+                 * **mixins**
+                   * _grid-framework.scss
+               
+Add mixin
+```scss
+@mixin make-col-project($col){
+  @include make-col($col);
+  @include make-gutters($grid-gutter-widths);
+
+}
+```
+---
 License
 ----
 
