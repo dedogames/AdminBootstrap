@@ -58,12 +58,12 @@ web-app folder structure
 N.b.: within vhost project folder structure
 
 
-  * $ProjectFolder 
-     * src 
-         * components 
-           * bootstrap 
-             * scss
-               * bootstrap.scss 
+  * **$ProjectFolder **
+     * ** src **
+       * ** components **
+           * ** bootstrap **
+             * ** scss **
+               * *bootstrap.scss*
          
 ```scss
 // Core variables and mixins
