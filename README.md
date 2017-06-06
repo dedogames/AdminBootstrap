@@ -57,22 +57,15 @@ web-app folder structure
 =========================
 N.b.: within vhost project folder structure
 
- * **public** 
-  * {routerfile}.php 
-  * font 
-  * css 
-  * img 
-  * js 
-  * themes 
-     * {theme[x]} 
-         * font 
-         * css 
-         * img 
-         * js
-         * licenses
+
+  * $ProjectFolder 
+     * src 
+         * components 
+           * bootstrap 
+             * scss
+               * bootstrap.scss 
          
-```
-javascript
+```scss
 // Core variables and mixins
 @import "variables";
 @import "mixins";
