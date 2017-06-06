@@ -53,16 +53,26 @@ Tasks created on gulpfile
 | server | Task server local|
 
 
-...
-    $root_project_folder
-    ├── src                
-    │   ├── components         
-    │  		├── bootstrap
-    |			|── scss    
-    │				|──bootstrap.scss
-    └── ...
-    
-```javascript
+web-app folder structure  
+=========================
+N.b.: within vhost project folder structure
+
+ * **public** 
+  * {routerfile}.php 
+  * font 
+  * css 
+  * img 
+  * js 
+  * themes 
+     * {theme[x]} 
+         * font 
+         * css 
+         * img 
+         * js
+         * licenses
+         
+```
+javascript
 // Core variables and mixins
 @import "variables";
 @import "mixins";
