@@ -55,8 +55,6 @@ Tasks created on gulpfile
 
 Files to change on core 
 =========================
-N.b.: within vhost project folder structure
-
 
   * **$ProjectFolder**
      * **srr**
@@ -64,7 +62,8 @@ N.b.: within vhost project folder structure
            * **bootstrap**
              * **scss**
                * bootstrap.scss
-         
+
+<font color="green">Comment all unsed libraries</font>                        
 ```scss
 // Core variables and mixins
 @import "variables";
@@ -114,8 +113,28 @@ N.b.: within vhost project folder structure
 // Utility classes
 //@import "utilities";
 ```
+---
 
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * _variables.scss
 
+Change default values and create a new variable
+ 
+```scss
+// Reassign color vars to semantic color scheme
+$brand-success:             $green !default; 
+$brand-danger:              $red !default;
+$brand-inverse:             $gray-dark !default;
+ 
+//custon variable
+$height-header-items: 70px;
+```
+
+---
 License
 ----
 
