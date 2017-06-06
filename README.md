@@ -4,6 +4,8 @@
 
 This project is a template for build web applications
 
+### Test online
+[Test a demo here](http://gameudi.com/adminbootstrat/)
 ### Tools used
  
 * Bower - Pakager manager.
