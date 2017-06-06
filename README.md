@@ -1,6 +1,9 @@
 [![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/index.php/2017/06/01/curso-css/)
 
-# Template Boostrap certification
+# Template Boostrap certification 
+
+<p align="center"><img src="http://gameudi.com/adminbootstrat/guidepc.png" /></p>
+
 
 This project is a template for build web applications
 
