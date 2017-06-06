@@ -139,7 +139,10 @@ Change default values and create a new variable
  
 ```scss
 // Reassign color vars to semantic color scheme
-$brand-success:             $green !default; 
+$brand-primary:             #293541 !default;
+$brand-success:             $green !default;
+$brand-info:                #57b0eb !default;
+$brand-warning:             #fc8f3e !default;
 $brand-danger:              $red !default;
 $brand-inverse:             $gray-dark !default;
  
@@ -164,6 +167,24 @@ body {
   padding-top: $height-header-items+10;
 }
 
+```
+---
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+                 * **mixins**
+                   * _grid-framework.scss
+               
+Add mixin
+```scss
+@mixin make-col-project($col){
+  @include make-col($col);
+  @include make-gutters($grid-gutter-widths);
+
+}
 ```
 ---
 License
