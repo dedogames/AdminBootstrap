@@ -1,6 +1,6 @@
 [![N|Solid](http://gameudi.com/wp-content/uploads/2017/05/cropped-site.png)](http://gameudi.com/index.php/2017/06/01/curso-css/)
 
-# Boostrap certification
+# Template Boostrap certification
 
 This project is a template for build web applications
 
@@ -51,6 +51,67 @@ Tasks created on gulpfile
 | js |Task minify js | 
 | concat-js | Task concat js  |
 | server | Task server local|
+
+
+...
+    $root_project_folder
+    ├── src                
+    │   ├── components         
+    │  		├── bootstrap
+    |			|── scss    
+    │				|──bootstrap.scss
+    └── ...
+    
+```javascript
+// Core variables and mixins
+@import "variables";
+@import "mixins";
+@import "custom";
+
+// Reset and dependencies
+@import "normalize";
+@import "print";
+
+// Core CSS
+@import "reboot";
+//@import "type";
+@import "images";
+@import "code";
+//@import "grid";
+//@import "tables";
+//@import "forms";
+//@import "buttons";
+
+// Components
+//@import "transitions";
+//@import "dropdown";
+//@import "button-group";
+//@import "input-group";
+//@import "custom-forms";
+@import "nav";
+//@import "navbar";
+@import "card";
+//@import "breadcrumb";
+//@import "pagination";
+//@import "badge";
+//@import "jumbotron";
+//@import "alert";
+//@import "progress";
+//@import "media";
+//@import "list-group";
+//@import "responsive-embed";
+//@import "close";
+
+// Components w/ JavaScript
+//@import "modal";
+//@import "tooltip";
+//@import "popover";
+//@import "carousel";
+
+// Utility classes
+//@import "utilities";
+```
+
 
 License
 ----
