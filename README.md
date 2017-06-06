@@ -135,6 +135,24 @@ $height-header-items: 70px;
 ```
 
 ---
+
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * _normalize.scss
+
+Change Boding padding
+
+```scss
+body {
+  margin: 0;
+  padding-top: $height-header-items+10;
+}
+
+```
+---
 License
 ----
 
