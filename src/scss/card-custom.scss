@@ -1,0 +1,53 @@
+.card{
+  margin-top: 2rem;
+  height: 437px;
+  .nav{
+
+    flex-direction:column;
+    @include media-breakpoint-up('lg'){
+      flex-direction: row;
+      margin-right: 10px;
+    }
+  }
+
+  .card-header,
+  .card-footer{
+    background-color:#fff;
+  }
+
+  img{
+      max-width: 100%;
+     
+       height: auto;
+  }
+
+  &.contractors{
+    .card-block{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      .fa{
+        font-size: 5rem;
+      }
+    }
+
+    .card-footer{
+      display:flex;
+      justify-content:space-between;
+      .item{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        font-size: 1.3rem;
+        .warning{
+          color:$brand-warning;         
+        }
+
+        .info{
+          color: $brand-info;
+        }
+      }
+    }
+    
+  }
+}

@@ -1,0 +1,72 @@
+@import "../components/bootstrap/scss/bootstrap.scss";
+@import "../components/components-font-awesome/scss/font-awesome.scss";
+.row{
+	@include make-row;
+	margin-left: 0;
+	margin-right: 0;
+
+	> .col,
+	> [class*="col-"]{
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+}
+
+ 
+ 
+
+@import "sidebar";
+@import "header";
+
+
+.center-block{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+  
+
+
+@import "card-custom";
+@import "badge-custom";
+
+
+
+ 
+.container{width: 100%;}
+.coluna-menor,
+.coluna-maior
+{
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+@include media-breakpoint-up('sm'){
+	.coluna-menor{
+		@include make-col-project(4);
+	}
+
+	.coluna-maior{
+		@include make-col-project(8);
+	}
+}
+@include media-breakpoint-up('lg'){
+	.container{
+		width: 85%;
+		margin-left: 200px;
+
+	}
+}
+
+h1{
+margin-bottom: -20px;
+}
+@include media-breakpoint-down('sm'){
+	h1{
+		
+		margin-left: 19px;
+	}
+}
+ 
