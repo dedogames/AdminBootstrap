@@ -53,17 +53,17 @@ Tasks created on gulpfile
 | server | Task server local|
 
 
-web-app folder structure  
+Files to change on core 
 =========================
 N.b.: within vhost project folder structure
 
 
-  * **$ProjectFolder **
-     * ** src **
-       * ** components **
-           * ** bootstrap **
-             * ** scss **
-               * *bootstrap.scss*
+  * **$ProjectFolder**
+     * **srr**
+       * **components**
+           * **bootstrap**
+             * **scss**
+               * bootstrap.scss
          
 ```scss
 // Core variables and mixins
